@@ -27,3 +27,8 @@ Also relevant:
 https://jtanx.github.io/2016/12/27/making-a-fast-rpi-print-server/
 
 about `mkfs.vfat` : https://askubuntu.com/questions/22381/how-to-format-a-usb-flash-drive
+
+
+##TODO
+try AitPrint:
+https://www.makeuseof.com/tag/add-airprint-support-raspberry-pi-print-server/
