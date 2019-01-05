@@ -32,3 +32,14 @@ about `mkfs.vfat` : https://askubuntu.com/questions/22381/how-to-format-a-usb-fl
 ##TODO
 try AitPrint:
 https://www.makeuseof.com/tag/add-airprint-support-raspberry-pi-print-server/
+
+# Some ubuntu setup notes:
+relevant tutorials:
+https://askubuntu.com/questions/54157/how-do-i-set-xmodmap-on-login
+https://code.mradford.com/post/the-ubuntu-compiz-desktop/
+https://blog.jbfavre.org/2015/03/07/Debian-on-Macbook-Pro-11-1/
+https://github.com/0xbb/gpu-switch
+https://wiki.archlinux.org/index.php/MacBookPro11,x#Graphics
+https://github.com/dekkerlab/Dekker-Lab-IT/issues/41
+
+
